@@ -14,7 +14,9 @@ better markdowns better open source
 *This text* is italic
 
 _This text_ is also italic
+
 `this is higlight`
+
 <!-- Strong -->
 **This text** is italic
 
@@ -38,10 +40,11 @@ ___
 
 <!-- UL -->
 * Markdown list
-* 2
-* 3
+*2
+*3
   * Nested Item 1
   * Nested Item 2
+      
 
 <!-- OL -->
 1. Item 1
@@ -64,7 +67,7 @@ ___
 ```
 
 <!-- Tables -->
-| Name     | Email          |
+| column name     | column name          |
 | -------- | -------------- |
 | Table item | is like matrix |
 | put here something | and here also |
@@ -73,3 +76,5 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+
