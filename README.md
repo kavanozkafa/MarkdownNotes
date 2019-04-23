@@ -1,6 +1,6 @@
 # MarkdownNotes
 better markdowns better open source
-# README-MarkdownNotes
+# If you wanna know how i made these things, just click pen icon.
 
 <!-- Headings -->
 # Heading 1
