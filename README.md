@@ -40,10 +40,11 @@ ___
 
 <!-- UL -->
 * Markdown list
-*2
-*3
+* 2
+* 3
   * Nested Item 1
   * Nested Item 2
+   1. inner item
       
 
 <!-- OL -->
