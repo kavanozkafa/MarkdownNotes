@@ -14,7 +14,7 @@ better markdowns better open source
 *This text* is italic
 
 _This text_ is also italic
-
+`this is higlight`
 <!-- Strong -->
 **This text** is italic
 
@@ -73,7 +73,3 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
-
-
-<github.com/kavanozkafa>
-
